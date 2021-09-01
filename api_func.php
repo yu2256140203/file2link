@@ -1,10 +1,10 @@
 <?php
-$GITHUB_USERNAME = '';  // 用户名
-$GITHUB_REPONAME = '';  // Repository名
-$GITHUB_BRANCHNAME = '';  // 分支名
-$GITHUB_TOKEN = '';  // TOKEN
-$GITHUB_EMAIL = '';  // 邮箱
-$GITHUB_NAME = '';  // 昵称
+$GITHUB_USERNAME = 'yu2256140203';  // 用户名
+$GITHUB_REPONAME = 'file2link';  // Repository名
+$GITHUB_BRANCHNAME = 'master';  // 分支名
+$GITHUB_TOKEN = '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';  // TOKEN
+$GITHUB_EMAIL = '22556140203@qq.com';  // 邮箱
+$GITHUB_NAME = 'flykiss';  // 昵称
 
 function callInterfaceCommon($URL, $type, $params, $headers)
 {
