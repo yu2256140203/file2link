@@ -1,9 +1,9 @@
 <?php
 $GITHUB_USERNAME = 'yu2256140203';  // 用户名
-$GITHUB_REPONAME = 'file2link';  // Repository名
-$GITHUB_BRANCHNAME = 'master';  // 分支名
-$GITHUB_TOKEN = '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';  // TOKEN
-$GITHUB_EMAIL = '22556140203@qq.com';  // 邮箱
+$GITHUB_REPONAME = 'Photos';  // Repository名
+$GITHUB_BRANCHNAME = 'main';  // 分支名
+$GITHUB_TOKEN = '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';  // TOKEN
+$GITHUB_EMAIL = 'yu22556140203@gmail.com';  // 邮箱
 $GITHUB_NAME = 'flykiss';  // 昵称
 
 function callInterfaceCommon($URL, $type, $params, $headers)
